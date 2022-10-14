@@ -1,6 +1,9 @@
-## Hi there 👋
+![Akatron Academy](http://www.akatron.net/wp-content/themes/akatron-theme/assets/img/akt-academy.png)
+
 
 <!--
+
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
