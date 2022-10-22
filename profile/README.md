@@ -19,6 +19,7 @@ Customizable desktop like dasboards
 
 ### Others
 - [Wordpress Site Theme](https://github.com/Akatron-Network/Wordpress-Akatron-WebTheme)
+- [Wordpress Debi Theme](https://github.com/Akatron-Network/Wordpress-Debi-Theme)
 - [Argesta Web Site Design](https://github.com/Akatron-Network/Argesta-Website)
 
 ## Web Links
