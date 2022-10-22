@@ -1,9 +1,11 @@
-[![Akatron Academy](http://www.akatron.net/wp-content/themes/akatron-theme/assets/img/akt-academy.png)](http://www.akatron.net/category/academy/)
+![Akatron](http://www.akatron.net/wp-content/themes/akatron-theme/assets/img/akt-icon.png)
 
 # Akatron Network
+Open-Source focused software development team
+<br />
 
-# Our Projects
-## Debi (WIP)
+## Our Projects
+### Debi (WIP)
 Designable Business Intelligence
 - [Front-End (UI)](https://github.com/Akatron-Network/Debi-Frontend)
 - [Back-End (API)](https://github.com/Akatron-Network/Debi-API)
@@ -12,19 +14,19 @@ Designable Business Intelligence
 
 <br />
 
-## RonaDesk (WIP)
+### RonaDesk (WIP)
 Customizable desktop like dasboards
 - [Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
 
 <br />
 
-## Others
+### Others
 - [Wordpress Site Theme](https://github.com/Akatron-Network/Wordpress-Akatron-WebTheme)
 - [Argesta Web Site Design](https://github.com/Akatron-Network/Argesta-Website)
 
 <br />
 
-# Web Links
+## Web Links
 - [Akatron Network](http://akatron.net)
 - [Akatron Academy](http://akatron.net/category/academy/)
 - [DeBI](http://debi.akatron.net)
