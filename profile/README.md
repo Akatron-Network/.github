@@ -1,7 +1,7 @@
 ![Akatron](http://www.akatron.net/wp-content/themes/akatron-theme/assets/img/akt-icon.png)
 
 # Akatron Network
-Open-Source focused software development team
+> Open-Source focused software development team
 <br />
 <br />
 
