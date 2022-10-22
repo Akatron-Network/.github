@@ -1,8 +1,6 @@
 [![Akatron Academy](http://www.akatron.net/wp-content/themes/akatron-theme/assets/img/akt-academy.png)](http://www.akatron.net/category/academy/)
 
 # Akatron Network
-<br />
-
 
 # Our Projects
 ## Debi (WIP)
