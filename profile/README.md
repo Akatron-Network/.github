@@ -5,7 +5,7 @@ Open-Source focused software development team
 <br />
 <br />
 
-## Our Projects
+## Projects
 ### Debi (WIP)
 Designable Business Intelligence
 - [Front-End (UI)](https://github.com/Akatron-Network/Debi-Frontend)
@@ -13,19 +13,13 @@ Designable Business Intelligence
 - [Gateway (In-Premises)](https://github.com/Akatron-Network/Debi-Gateway)
 - [Gateway Manager (for Windows)](https://github.com/Akatron-Network/Debi-GateManager)
 
-<br />
-
 ### RonaDesk (WIP)
 Customizable desktop like dasboards
 - [Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
 
-<br />
-
 ### Others
 - [Wordpress Site Theme](https://github.com/Akatron-Network/Wordpress-Akatron-WebTheme)
 - [Argesta Web Site Design](https://github.com/Akatron-Network/Argesta-Website)
-
-<br />
 
 ## Web Links
 - [Akatron Network](http://akatron.net)
