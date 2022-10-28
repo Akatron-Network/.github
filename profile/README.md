@@ -3,7 +3,6 @@
 # Akatron Network
 > Open-Source focused software development team
 <br />
-<br />
 
 ## Projects
 ### Debi (WIP)
