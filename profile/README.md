@@ -16,10 +16,6 @@ Designable Business Intelligence
 Customizable desktop like dasboards
 - [Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
 
-### RedTape (WIP)
-B2B for Stationary
-- [Frontend-End](https://github.com/Akatron-Network/RedTape_Frontend)
-
 ### Others
 - [Wordpress Site Theme](https://github.com/Akatron-Network/Wordpress-Akatron-WebTheme)
 - [Wordpress Debi Theme](https://github.com/Akatron-Network/Wordpress-Debi-Theme)
