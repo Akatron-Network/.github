@@ -10,7 +10,8 @@ Designable Business Intelligence
 - [Front-End (UI)](https://github.com/Akatron-Network/Debi-Frontend)
 - [Back-End (API)](https://github.com/Akatron-Network/Debi-API)
 - [Gateway (In-Premises)](https://github.com/Akatron-Network/Debi-Gateway)
-- [Gateway Manager (for Windows)](https://github.com/Akatron-Network/Debi-GateManager)
+- [Reseller (UI)](https://github.com/Akatron-Network/Debi-Reseller)
+- [Gateway Manager (for Windows) DISABLED](https://github.com/Akatron-Network/Debi-GateManager)
 
 ### RedTape
 - [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
