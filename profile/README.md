@@ -5,20 +5,20 @@
 <br />
 
 ## Projects
-### Debi (WIP)
+### Debi
 Designable Business Intelligence
 - [Front-End (UI)](https://github.com/Akatron-Network/Debi-Frontend)
 - [Back-End (API)](https://github.com/Akatron-Network/Debi-API)
 - [Gateway (In-Premises)](https://github.com/Akatron-Network/Debi-Gateway)
 - [Gateway Manager (for Windows)](https://github.com/Akatron-Network/Debi-GateManager)
 
+### RedTape
+- [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
+- [Back-End (API)](https://github.com/Akatron-Network/RedTape-API)
+
 ### RonaDesk (WIP)
 Customizable desktop like dashboards
 - [Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
-
-### RedTape (WIP)
-- [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
-- [Back-End (API)](https://github.com/Akatron-Network/RedTape-API)
 
 
 ### Others
