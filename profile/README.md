@@ -7,12 +7,12 @@
 ## Projects
 ### Debi
 Designable Business Intelligence
-- [Front-End (UI)](https://github.com/Akatron-Network/Debi-Frontend)
-- [Back-End (API)](https://github.com/Akatron-Network/Debi-API)
-- [Gateway (In-Premises)](https://github.com/Akatron-Network/Debi-Gateway)
-- [Client](https://github.com/Akatron-Network/Debi-Client)
-- [Reseller (UI)](https://github.com/Akatron-Network/Debi-Reseller)
-- [Gateway Manager (for Windows) DISABLED](https://github.com/Akatron-Network/Debi-GateManager)
+- [Front-End](https://github.com/Akatron-Network/Debi-Frontend) User Interface & FrontEnd Server
+- [Back-End](https://github.com/Akatron-Network/Debi-API) Application Programming Interface & Database Scheme
+- [Gateway](https://github.com/Akatron-Network/Debi-Gateway) In-Premises Local Server for Client
+- [Client](https://github.com/Akatron-Network/Debi-Client) Electron Based Client for working with GateWay
+- [Reseller](https://github.com/Akatron-Network/Debi-Reseller) Web User Interface
+- [Gateway Manager](https://github.com/Akatron-Network/Debi-GateManager) Windows Gateway Manager (Disabled)
 
 ### RedTape
 - [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
