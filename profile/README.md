@@ -5,7 +5,7 @@
 <br />
 
 ## Projects
-### Debi
+### DeBI
 Designable Business Intelligence
 - [Front-End](https://github.com/Akatron-Network/Debi-Frontend) - User Interface & FrontEnd Server
 - [Back-End](https://github.com/Akatron-Network/Debi-API) - Application Programming Interface & Database Scheme
