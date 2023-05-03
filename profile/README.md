@@ -14,7 +14,7 @@ Designable Business Intelligence
 - [Reseller](https://github.com/Akatron-Network/Debi-Reseller) - Web User Interface
 - [Gateway Manager](https://github.com/Akatron-Network/Debi-GateManager) - Windows Gateway Manager (Disabled)
 
-### RedTape
+### Verna
 - [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
 - [Back-End (API)](https://github.com/Akatron-Network/RedTape-API)
 
