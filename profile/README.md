@@ -5,6 +5,7 @@
 <br />
 
 ## Projects
+
 ### DeBI
 Designable Business Intelligence
 - [Front-End](https://github.com/Akatron-Network/Debi-Frontend) - User Interface & FrontEnd Server
@@ -18,15 +19,12 @@ Designable Business Intelligence
 - [Front-End (UI)](https://github.com/Akatron-Network/RedTape-Frontend)
 - [Back-End (API)](https://github.com/Akatron-Network/RedTape-API)
 
-### RonaDesk (WIP)
-Customizable desktop like dashboards
-- [Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
-
 
 ### Others
 - [Wordpress Site Theme](https://github.com/Akatron-Network/Wordpress-Akatron-WebTheme)
 - [Wordpress Debi Theme](https://github.com/Akatron-Network/Wordpress-Debi-Theme)
 - [Argesta Web Site Design](https://github.com/Akatron-Network/Argesta-Website)
+- [RonaDesk Back-End (API)](https://github.com/Akatron-Network/RonaDesk-API)
 
 <br />
 
